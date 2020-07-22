@@ -115,4 +115,4 @@ def train(train=True):
 
 if __name__ == '__main__':
     #train(False)
-    test('', 'test.jpg')
+    test('CRAFT_262000.ckpt.data-00000-of-00001', 'test.jpg')
